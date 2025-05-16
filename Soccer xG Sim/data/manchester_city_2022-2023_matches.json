@@ -1,0 +1,13 @@
+{
+  "team_name": "Manchester City",
+  "team_id": 17,
+  "season": "2022-2023",
+  "last_updated": "2025-05-12 16:22:42",
+  "matches": [
+    {
+      "match_text": "Hover over the columns to see scores",
+      "match_url": null,
+      "has_details": false
+    }
+  ]
+}

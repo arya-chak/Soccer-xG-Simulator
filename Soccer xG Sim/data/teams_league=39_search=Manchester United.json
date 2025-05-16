@@ -1,0 +1,17 @@
+{
+  "get": "teams",
+  "parameters": {
+    "search": "Manchester United",
+    "league": "39"
+  },
+  "errors": {
+    "league": "The League field cannot be used with the Search field."
+  },
+  "results": 0,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [],
+  "timestamp": "2025-05-13T11:46:15.307529"
+}

@@ -1,0 +1,382 @@
+{
+    "teams": [
+        {
+            "name": "Paris Saint-Germain",
+            "season": "2024-2025",
+            "league": "Ligue 1",
+            "coach": "Luis Enrique",
+            "notable_players": ["Khvicha Kvaratskhelia", "Ousmane Dembélé", "Achraf Hakimi", "Marquinhos", "Gianluigi Donnarumma"],
+            "notes": "First Season Post-Mbappe Era - Reached UCL Final - Potential to Quadruple",
+            "stats": {
+              "matches_played": 33,
+              "wins": 25,
+              "draws": 6,
+              "losses": 2,
+              "goals_for": 89,
+              "goals_against": 34,
+              "avg_xg_for": 2.6,
+              "avg_xg_against": 0.9,
+              "xg_efficiency": 1.04,
+              "defensive_efficiency": 1.11,
+              "possession": 68.7
+            }
+        },
+        {
+            "name": "Inter Milan",
+            "season": "2024-2025",
+            "league": "Serie A",
+            "coach": "Simone Inzaghi",
+            "notable_players": ["Lautaro Martínez", "Nicolò Barella", "Alessandro Bastoni", "Hakan Çalhanoğlu", "Denzel Dumfries"],
+            "notes": "Lost in UCL Final to Man City 2 Years Ago - Reached UCL Final - 2nd in Serie A",
+            "stats": {
+              "matches_played": 36,
+              "wins": 23,
+              "draws": 8,
+              "losses": 5,
+              "goals_for": 75,
+              "goals_against": 33,
+              "avg_xg_for": 1.8,
+              "avg_xg_against": 0.9,
+              "xg_efficiency": 1.16,
+              "defensive_efficiency": 1.00,
+              "possession": 60.2
+            }
+        },
+        {
+            "name": "Real Madrid",
+            "season": "2023-2024",
+            "league": "La Liga",
+            "coach": "Carlo Ancelotti",
+            "notable_players": ["Vinicius Junior", "Jude Bellingham", "Thibaut Courtois", "Daniel Carvajal", "Federico Valverde"],
+            "notes": "Mystic Weird Eyebrown Raise V2 - Won UCL - Treble Winner",
+            "stats": {
+              "matches_played": 38,
+              "wins": 29,
+              "draws": 8,
+              "losses": 1,
+              "goals_for": 87,
+              "goals_against": 26,
+              "avg_xg_for": 1.8,
+              "avg_xg_against": 0.7,
+              "xg_efficiency": 1.26,
+              "defensive_efficiency": 0.73,
+              "possession": 59.4
+            }
+        },
+        {
+            "name": "Manchester City",
+            "season": "2022-2023",
+            "league": "Premier League",
+            "coach": "Pep Guardiola",
+            "notable_players": ["Erling Haaland", "Rodri", "Bernardo Silva", "Rúben Dias", "Kevin De Bruyne"],
+            "notes": "Won First UCL in Club History - Third Premier League Win in a Row - Treble Winner",
+            "stats": {
+              "matches_played": 38,
+              "wins": 28,
+              "draws": 5,
+              "losses": 5,
+              "goals_for": 94,
+              "goals_against": 33,
+              "avg_xg_for": 2.1,
+              "avg_xg_against": 0.8,
+              "xg_efficiency": 1.20,
+              "defensive_efficiency": 1.03,
+              "possession": 65.4
+            }
+        },
+        {
+            "name": "Real Madrid",
+            "season": "2021-2022",
+            "league": "La Liga",
+            "coach": "Carlo Ancelotti",
+            "notable_players": ["Vinicius Junior", "Karim Benzema", "Casemiro", "Luka Modrić", "Toni Kroos"],
+            "notes": "Mystic Weird Eyebrown Raise V1 - First UCL Post-CR7 Era - Treble Winner",
+            "stats": {
+              "matches_played": 38,
+              "wins": 26,
+              "draws": 8,
+              "losses": 4,
+              "goals_for": 80,
+              "goals_against": 31,
+              "avg_xg_for": 1.9,
+              "avg_xg_against": 1.2,
+              "xg_efficiency": 1.12,
+              "defensive_efficiency": 0.71,
+              "possession": 60.2
+            }
+        },
+        {
+            "name": "Chelsea",
+            "season": "2020-2021",
+            "league": "Premier League",
+            "coach": "Thomas Tuchel",
+            "notable_players": ["Mason Mount", "Jorginho", "N'Golo Kanté", "Reece James", "César Azpilicueta"],
+            "notes": "Wacky Undeserving Team - Won UCL - 4th in Premier League",
+            "stats": {
+              "matches_played": 38,
+              "wins": 19,
+              "draws": 10,
+              "losses": 9,
+              "goals_for": 58,
+              "goals_against": 36,
+              "avg_xg_for": 1.6,
+              "avg_xg_against": 0.8,
+              "xg_efficiency": 0.93,
+              "defensive_efficiency": 1.19,
+              "possession": 61.4
+            }
+        },
+        {
+            "name": "Bayern Munich",
+            "season": "2019-2020",
+            "league": "Bundesliga",
+            "coach": "Hansi Flick",
+            "notable_players": ["Robert Lewandowski", "Thomas Müller", "Joshua Kimmich", "Serge Gnabry", "Manuel Neuer"],
+            "notes": "COVID Year - Won UCL - Treble Winner",
+            "stats": {
+              "matches_played": 34,
+              "wins": 26,
+              "draws": 4,
+              "losses": 4,
+              "goals_for": 100,
+              "goals_against": 32,
+              "avg_xg_for": 2.6,
+              "avg_xg_against": 1.1,
+              "xg_efficiency": 1.12,
+              "defensive_efficiency": 0.84,
+              "possession": 65.5
+            }
+        },
+        {
+            "name": "Liverpool",
+            "season": "2018-2019",
+            "league": "Premier League",
+            "coach": "Jürgen Klopp",
+            "notable_players": ["Mohamed Salah", "Sadio Mané", "Virgil van Dijk", "Alisson", "Trent Alexander-Arnold"],
+            "notes": "1 point shy of winning Premier League - Won UCL - Lost in UCL Final the Year Before",
+            "stats": {
+              "matches_played": 38,
+              "wins": 30,
+              "draws": 7,
+              "losses": 1,
+              "goals_for": 89,
+              "goals_against": 22,
+              "avg_xg_for": 1.9,
+              "avg_xg_against": 0.8,
+              "xg_efficiency": 1.21,
+              "defensive_efficiency": 0.76,
+              "possession": 62.3
+            }
+        },
+        {
+            "name": "Real Madrid",
+            "season": "2017-2018",
+            "league": "La Liga",
+            "coach": "Zinedine Zidane",
+            "notable_players": ["Cristiano Ronaldo", "Karim Benzema", "Gareth Bale", "Luka Modrić", "Sergio Ramos"],
+            "notes": "Won 3 UCL Finals in a Row - Last Year of CR7-Era - Treble Winner",
+            "stats": {
+              "matches_played": 38,
+              "wins": 22,
+              "draws": 10,
+              "losses": 6,
+              "goals_for": 94,
+              "goals_against": 44,
+              "avg_xg_for": 2.2,
+              "avg_xg_against": 1.3,
+              "xg_efficiency": 1.10,
+              "defensive_efficiency": 1.02,
+              "possession": 60.4
+            }
+        },
+        {
+            "name": "Manchester United",
+            "season": "2024-2025",
+            "league": "Premier League",
+            "coach": "Ruben Amorim",
+            "notable_players": ["Bruno Fernandes", "Alejandro Garnacho", "Noussair Mazraoui", "Harry Maguire", "Casemiro"],
+            "notes": "Reached UEL Final - Lose and They are Finished - 16th in Premier League",
+            "stats": {
+              "matches_played": 36,
+              "wins": 10,
+              "draws": 9,
+              "losses": 17,
+              "goals_for": 42,
+              "goals_against": 53,
+              "avg_xg_for": 1.4,
+              "avg_xg_against": 1.5,
+              "xg_efficiency": 0.85,
+              "defensive_efficiency": 1.01,
+              "possession": 53.1
+            }
+        },
+        {
+            "name": "Tottenham Hotspur",
+            "season": "2024-2025",
+            "league": "Premier League",
+            "coach": "Ange Postecoglou",
+            "notable_players": ["Dejan Kulusevski", "Cristian Romero", "James Maddison", "Pedro Porro", "Heung-min Son"],
+            "notes": "Reached UEL Final - Lose and They are Still Spurs - 17th in Premier League",
+            "stats": {
+              "matches_played": 36,
+              "wins": 11,
+              "draws": 5,
+              "losses": 20,
+              "goals_for": 63,
+              "goals_against": 59,
+              "avg_xg_for": 1.6,
+              "avg_xg_against": 1.7,
+              "xg_efficiency": 1.12,
+              "defensive_efficiency": 0.99,
+              "possession": 56.0
+            }
+        },
+        {
+            "name": "Atalanta",
+            "season": "2023-2024",
+            "league": "Serie A",
+            "coach": "Gian Piero Gasperini",
+            "notable_players": ["Teun Koopmeiners", "Giorgio Scalvini", "Ademola Lookman", "Éderson", "Charles De Ketelaere"],
+            "notes": "Won UEL Final - Defeated Invincible Bayer Leverkusen in Final - 4th in Serie A",
+            "stats": {
+              "matches_played": 38,
+              "wins": 21,
+              "draws": 6,
+              "losses": 11,
+              "goals_for": 72,
+              "goals_against": 42,
+              "avg_xg_for": 1.5,
+              "avg_xg_against": 1.1,
+              "xg_efficiency": 1.25,
+              "defensive_efficiency": 1.02,
+              "possession": 51.2
+            }
+        },
+        {
+            "name": "Sevilla",
+            "season": "2022-2023",
+            "league": "La Liga",
+            "coach": "José Luis Mendilibar",
+            "notable_players": ["Youssef En-Nesyri", "Lucas Ocampos", "Bono", "Gonzalo Montiel", "Loïc Badé"],
+            "notes": "3 Head Coaches in 1 Season - Won 5th UEL in 10 Years - 12th in La Liga",
+            "stats": {
+              "matches_played": 38,
+              "wins": 13,
+              "draws": 10,
+              "losses": 15,
+              "goals_for": 47,
+              "goals_against": 54,
+              "avg_xg_for": 1.2,
+              "avg_xg_against": 1.4,
+              "xg_efficiency": 1.02,
+              "defensive_efficiency": 1.00,
+              "possession": 52.8
+            }
+        },
+        {
+            "name": "Eintracht Frankfurt",
+            "season": "2021-2022",
+            "league": "Bundesliga",
+            "coach": "Oliver Glasner",
+            "notable_players": ["Kevin Trapp", "Evan Ndicka", "Filip Kostić", "Daichi Kamada", "Rafael Borré"],
+            "notes": "First UEL Win in Club History - Won UEL - 11th in Bundesliga",
+            "stats": {
+              "matches_played": 34,
+              "wins": 10,
+              "draws": 12,
+              "losses": 12,
+              "goals_for": 45,
+              "goals_against": 49,
+              "avg_xg_for": 1.2,
+              "avg_xg_against": 1.4,
+              "xg_efficiency": 1.08,
+              "defensive_efficiency": 1.04,
+              "possession": 49.6
+            }
+        },
+        {
+            "name": "Villarreal",
+            "season": "2020-2021",
+            "league": "La Liga",
+            "coach": "Unai Emery",
+            "notable_players": ["Pau Torres", "Gerard Moreno", "Manu Trigueros", "Dani Parejo", "Raúl Albiol"],
+            "notes": "Defeated Manchester United in Final on Goalkeeper Penalty Kicks - Won UEL - 7th in La Liga",
+            "stats": {
+              "matches_played": 38,
+              "wins": 15,
+              "draws": 13,
+              "losses": 10,
+              "goals_for": 60,
+              "goals_against": 44,
+              "avg_xg_for": 1.5,
+              "avg_xg_against": 1.1,
+              "xg_efficiency": 1.06,
+              "defensive_efficiency": 1.04,
+              "possession": 55.5
+            }
+        },
+        {
+            "name": "Sevilla",
+            "season": "2019-2020",
+            "league": "La Liga",
+            "coach": "Julen Lopetegui",
+            "notable_players": ["Diego Carlos", "Lucas Ocampos", "Jules Koundé", "Sergio Reguilón", "Jesús Navas"],
+            "notes": "COVID Year - Won 4th UEL in 7 Years - 4th in La Liga",
+            "stats": {
+              "matches_played": 38,
+              "wins": 19,
+              "draws": 13,
+              "losses": 6,
+              "goals_for": 54,
+              "goals_against": 34,
+              "avg_xg_for": 1.4,
+              "avg_xg_against": 1.0,
+              "xg_efficiency": 1.02,
+              "defensive_efficiency": 0.94,
+              "possession": 58.4
+            }
+        },
+        {
+            "name": "Chelsea",
+            "season": "2018-2019",
+            "league": "Premier League",
+            "coach": "Maurizio Sarri",
+            "notable_players": ["Eden Hazard", "Antonio Rüdiger", "N'Golo Kanté", "David Luiz", "Pedro"],
+            "notes": "Hazard's Last Season - Won UEL - 3rd in Premier League",
+            "stats": {
+              "matches_played": 38,
+              "wins": 21,
+              "draws": 9,
+              "losses": 8,
+              "goals_for": 63,
+              "goals_against": 39,
+              "avg_xg_for": 1.5,
+              "avg_xg_against": 1.0,
+              "xg_efficiency": 1.08,
+              "defensive_efficiency": 1.07,
+              "possession": 63.4
+            }
+        },
+        {
+            "name": "Atlético Madrid",
+            "season": "2017-2018",
+            "league": "La Liga",
+            "coach": "Diego Simeone",
+            "notable_players": ["Antoine Griezmann", "Koke", "Jan Oblak", "Saúl Ñíguez", "Diego Godín"],
+            "notes": "Dark Arts - Won UEL - 2nd in La Liga",
+            "stats": {
+              "matches_played": 38,
+              "wins": 23,
+              "draws": 10,
+              "losses": 5,
+              "goals_for": 58,
+              "goals_against": 22,
+              "avg_xg_for": 1.3,
+              "avg_xg_against": 0.9,
+              "xg_efficiency": 1.16,
+              "defensive_efficiency": 0.61,
+              "possession": 47.2
+            }
+        }
+    ]
+}
