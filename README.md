@@ -23,4 +23,7 @@ Sevilla 2019-20
 Cheslea 2018-19
 Atlético Madrid 2017-19
 
-More teams will be added soon
+Will be added:
+1. More teams will be added
+2. Tournament mode to simulate tournaments betwen the teams of your choice
+3. Sim League to have teams play in a UEFA league format
