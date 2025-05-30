@@ -1,4 +1,6 @@
 # Soccer-xG-Simulator
+Streamlit app: https://soccer-xg-simulator.streamlit.app/
+
 Simulates your dream matches between European Champions using xG
 
 Teams that you can sim between right now:
