@@ -2,6 +2,7 @@
 Streamlit app: https://soccer-xg-simulator.streamlit.app/
 
 Simulates your dream matches between European Champions using xG
+All statistics used are from FBref
 
 Teams that you can sim between right now:
 1. PSG 2024-25
