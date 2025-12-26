@@ -441,7 +441,7 @@ This project is open source. Team statistics are sourced from [FBref](https://fb
 ## Contact & Questions
 
 **Author:** Arya Chakraborty  
-**Email:** achakr66@asu.edu  
+**LinkedIn:** www.linkedin.com/in/aryachak  
 **GitHub:** [@arya-chak](https://github.com/arya-chak)  
 
 Questions about the simulator or interested in collaborations? Feel free to reach out.
