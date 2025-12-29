@@ -467,5 +467,5 @@ Questions about the simulator or interested in collaborations? Feel free to reac
 
 - 🎮 [Live App](https://soccer-xg-simulator.streamlit.app/)
 - 📊 [Data Source (FBref)](https://fbref.com/)
-- 📚 [Expected Goals Explained](https://www.statsperform.com/resource/expected-goals-xg-explained/)
+- 📚 [Expected Goals Explained](https://fbref.com/en/expected-goals-model-explained/)
 - 🔬 [Poisson Distribution in Sports](https://en.wikipedia.org/wiki/Poisson_distribution)
